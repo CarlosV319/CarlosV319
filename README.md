@@ -7,7 +7,7 @@
 
 - 2️⃣0️⃣2️⃣2️⃣ I hope to become a developer and find my first job.
 
-- 📫 How to reach me: https://linktr.ee/steve.ok
+- 📫 How to reach me:
 
 - ⚡ Fun fact: I love listening to music  
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
