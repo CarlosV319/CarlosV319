@@ -1,6 +1,6 @@
 # Hi there, I´m Valerio 👋
 
-## I'm passionate about technology and cryptocurrencies. MERN full stack student in process!
+##  MERN full stack student in process!
 
 
 - 🌱 I’m currently learning JavaScript and the set of technologies: React native, MongoDb, Express, Node js.
